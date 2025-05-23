@@ -90,7 +90,7 @@ class Staff extends Employee {
 }  
 
 // 测试程序  
-public class Test {  
+public class TestPerson {  
     public static void main(String[] args) {  
         Person[] persons = new Person[5];  
         persons[0] = new Person("Alice");  

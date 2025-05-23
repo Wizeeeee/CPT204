@@ -29,6 +29,7 @@ public class LinkedListTraversal {
 
         // Step 4: Output the time values  
         System.out.println("Time taken using get(): " + getTime + " milliseconds");  
-        System.out.println("Time taken using iterator: " + iteratorTime + " milliseconds");  
+        System.out.println("Time taken using iterator: " + iteratorTime + " milliseconds");
+
     }  
 }  

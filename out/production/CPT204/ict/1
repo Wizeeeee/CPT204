@@ -1,0 +1,22 @@
+Explain the following Java code using plain English.
+
+public class Foobar< T > { }
+The code declares a Answer 1 Question 19
+generic
+ class named Foobar with a single type parameter T
+ 
+ What is the term for automatic conversion of a primitive to its wrapper class?
+
+Answer: Question 22
+
+Suppose we have a Stack class with definition sketched below.
+
+class Stack<E>
+Give the method signature for push, with an argument named element. 
+
+Refer to lecture 5 for push operation of a Stack. A method signature includes the method type, method name and the parameter list.
+
+Answer: Question 23
+The Answer 1 Question 25
+ListIterator
+ interface extends the Iterator interface for bidirectional traversal of a list and adding elements to the list.

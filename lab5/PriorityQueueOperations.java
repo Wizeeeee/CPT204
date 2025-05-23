@@ -34,6 +34,7 @@ public class PriorityQueueOperations {
         // Intersection of the two priority queues  
         PriorityQueue<String> intersectionQueue = new PriorityQueue<>(queue1);  
         intersectionQueue.retainAll(queue2);  
-        System.out.println("Intersection: " + intersectionQueue);  
+        System.out.println("Intersection: " + intersectionQueue); 
+
     }  
 }  
